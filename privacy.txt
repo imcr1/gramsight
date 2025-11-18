@@ -1,0 +1,26 @@
+1. Introduction and Data Collection
+GramSight is committed to user privacy. We designed GramSight to operate without sending any user data to external servers.
+
+No Personal Data Collection: GramSight does not collect, store, or transmit any personal data from your device to us or any external third parties.
+
+Local Data Processing: All Instagram data you choose to upload (specifically, the Instagram Data Export file you provide) is processed and stored exclusively locally on your device. This data never leaves your device via the GramSight app.
+
+2. Data Storage and Sharing
+Secure Local Storage: Your Instagram data and any resulting analysis or export results are stored securely on your device.
+
+No Data Sharing: Your data is never shared, sold, or rented to any third parties, advertisers, or external services.
+
+3. Required Permissions
+Storage Access: The app requires Storage (Read/Write) permission solely for the purpose of:
+
+Reading the Instagram data export file you explicitly select.
+
+Saving the results, analysis, or new export files (if applicable) back to your device's local storage.
+
+4. Analytics and Tracking
+No Tracking: We do not use any analytics, tracking services, cookies, or similar technologies to monitor your activity within the app or your device.
+
+5. Contact Us
+If you have any questions or concerns about this Privacy Policy, you may contact us at dr.hasanalnaham@gmail.com.
+
+Last updated: November 2025
